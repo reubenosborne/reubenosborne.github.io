@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="symbol">
+	<a href="{{site.baseurl}}/blog"><i class="fa fa-arrow-left"></i></a>
+</div>
+
+
+<article class="entry">
+	<h1>{{ page.title }}</h1>
+	
+	<h4>{{ page.excerpt }}</h4>
+
+	<p class="date">
+		Written on {{ page.date | date: "%B %e, %Y" }}
+	</p>
+	
+	<div class="content">
+		{{ content }}
+	</div>
+
+	<a href="/blog">Back to Blog</a>
+	
+	{% include disqus.html %}
+</article>
