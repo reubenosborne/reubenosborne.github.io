@@ -1,8 +1,8 @@
 ---
 layout: post
 category: post
-title: Burning Man 2016
-excerpt: From dust, to dust.
+title: The Bachelor Party
+excerpt: A trolley full of beers later.
 img: bm/bachelor-stampede.jpg
 ---
 

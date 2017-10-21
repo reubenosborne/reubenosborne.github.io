@@ -4,15 +4,15 @@ title: Blog
 permalink: /blog/
 ---
 
-<div class="symbol">
+<div class="symbol flex">
 	<a href="{{site.baseurl}}/"><i class="fa fa-arrow-left"></i></a>
 </div>
 
 <div class="posts">
 	{% for post in site.posts %}
 	{% if post.category contains 'post' %}
-	<article class="post" style="background-image: url('../images/{{ post.img }}')">
-		<a href="{{ site.baseurl }}{{ post.url }}"><div class="overlay">
+	<article class="post flex" style="background-image: url('../images/{{ post.img }}')">
+		<a href="{{ site.baseurl }}{{ post.url }}"><div class="overlay flex">
 			<h4>{{ post.title }}</h4>
 			<p>"{{ post.excerpt }}"</p>
 		</div></a>

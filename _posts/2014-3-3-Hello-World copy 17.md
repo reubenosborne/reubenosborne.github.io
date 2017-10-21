@@ -1,9 +1,9 @@
 ---
 layout: post
 category: post
-title: Burning Man 2016
-excerpt: From dust, to dust.
-img: bm/cave.jpg
+title: Bali '17
+excerpt: Lucy arrives..
+img: lucy.jpeg
 ---
 
 ![Catachomb of Veils Photo]({{ "/images/bm/catachomb-sky.jpg" | absolute_url }})
