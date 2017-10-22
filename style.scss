@@ -196,10 +196,11 @@ img {
 }
 
 .back {
-  border: 1px solid $gray;
+  border: 1px solid #777;
+  margin-top: 50px;
   &:hover {
     color: #fff;
-    background: #777;
+    background: #999;
   }
 }
 
