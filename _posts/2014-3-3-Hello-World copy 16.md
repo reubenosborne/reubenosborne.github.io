@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: work
 category: work
 title: Burning Man 2016
 excerpt: From dust, to dust.

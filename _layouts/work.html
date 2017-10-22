@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="symbol flex">
+	<a href="{{site.baseurl}}/blog"><i class="icon-left-open"></i></a>
+</div>
+
+
+<article class="entry">
+	<h1>{{ page.title }}</h1>
+	
+	<h5>{{ page.excerpt }}</h5>
+
+	<p class="date">
+		Written on {{ page.date | date: "%B %e, %Y" }}
+	</p>
+	
+	<div class="content">
+		{{ content }}
+	</div>
+	
+	{% include disqus.html %}
+</article>
+
+<div class="footer" style="background-image: url('../images/{{ page.img }}')">
+	<div class="overlay flex">
+		<a href="/work" class="back button flex">Back to Portfolio</a>
+	</div>
+</div>
