@@ -6,8 +6,6 @@ excerpt: A trolley full of beers later.
 img: bm/bachelor-stampede.jpg
 ---
 
-![Burning Man]({{ "/images/bm/bachelor-louiscord.jpg" | absolute_url }})
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur, aut nesciunt quae voluptatum necessitatibus, optio nemo! Facere beatae quaerat modi eligendi ex aut quod laborum, laudantium porro accusantium, temporibus repellat?
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores quidem inventore ut esse eum explicabo odio et veritatis obcaecati, dolore blanditiis, minima saepe magni dolores fugit praesentium distinctio eius tenetur.

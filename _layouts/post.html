@@ -10,7 +10,7 @@ layout: default
 <article class="entry">
 	<h1>{{ page.title }}</h1>
 	
-	<h4>{{ page.excerpt }}</h4>
+	<h5>{{ page.excerpt }}</h5>
 
 	<p class="date">
 		Written on {{ page.date | date: "%B %e, %Y" }}
@@ -19,8 +19,12 @@ layout: default
 	<div class="content">
 		{{ content }}
 	</div>
-
-	<a href="/blog" class="back button flex">Back to Blog</a>
 	
 	{% include disqus.html %}
 </article>
+
+<div class="footer" style="background-image: url('../images/{{ page.img }}')">
+	<div class="overlay flex">
+		<a href="/blog" class="back button flex">Back to Blog</a>
+	</div>
+</div>
