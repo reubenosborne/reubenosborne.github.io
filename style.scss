@@ -144,7 +144,7 @@ img {
   display: grid;
   grid-gap: 20px;
   grid-template-rows: 120px minmax(250px, auto) 60px;
-  grid-template-columns: 80px 1fr 80px;
+  grid-template-columns: 100px 1fr 100px;
 }
 
 .logo {
@@ -205,7 +205,8 @@ img {
   background: rgba(0,0,0,.2);
   &:hover {
     color: #000;
-    background: #fff;
+    font-weight: 500;
+    background: rgba(255,255,255,.8);
   }
 }
 
