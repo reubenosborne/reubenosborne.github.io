@@ -1,12 +1,11 @@
 ---
 layout: work
 category: work
-title: Burning Man 2016
-excerpt: From dust, to dust.
-img: bm/amy-2.jpg
+title: Mint Consulting
+excerpt: Website for NZ consulting company
+img: mint.png
+img2: mint2.png
 ---
-
-![Burning Man]({{ "/images/bm/amy.jpg" | absolute_url }})
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur, aut nesciunt quae voluptatum necessitatibus, optio nemo! Facere beatae quaerat modi eligendi ex aut quod laborum, laudantium porro accusantium, temporibus repellat?
 

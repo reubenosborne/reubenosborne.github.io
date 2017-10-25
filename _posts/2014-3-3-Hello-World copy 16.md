@@ -1,8 +1,8 @@
 ---
 layout: work
 category: work
-title: Burning Man 2016
-excerpt: From dust, to dust.
+title: Feed the Weary 
+excerpt: And all it took was a bag of chips..
 img: bm/chips-1.jpg
 ---
 

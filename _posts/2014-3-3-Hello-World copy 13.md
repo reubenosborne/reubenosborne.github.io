@@ -1,12 +1,10 @@
 ---
 layout: post
 category: post
-title: Burning Man 2016
-excerpt: From dust, to dust.
+title: We're all here from nowhere
+excerpt: The globe spun softly..
 img: bm/bachelor-globe.jpg
 ---
-
-![Burning Man]({{ "/images/bm/catachomb-sky.jpg" | absolute_url }})
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur, aut nesciunt quae voluptatum necessitatibus, optio nemo! Facere beatae quaerat modi eligendi ex aut quod laborum, laudantium porro accusantium, temporibus repellat?
 

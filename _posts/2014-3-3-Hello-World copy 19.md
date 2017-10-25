@@ -1,8 +1,8 @@
 ---
 layout: post
 category: post
-title: Burning Man 2016
-excerpt: From dust, to dust.
+title: A fallen feather
+excerpt: Did you even go to Burning Man?
 img: bm/feather.jpg
 ---
 

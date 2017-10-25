@@ -6,7 +6,7 @@ excerpt: Lucy arrives..
 img: lucy.jpeg
 ---
 
-![Catachomb of Veils Photo]({{ "/images/bm/catachomb-sky.jpg" | absolute_url }})
+![Lucy & Semangka]({{ "/images/bali.jpg" | absolute_url }})
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur, aut nesciunt quae voluptatum necessitatibus, optio nemo! Facere beatae quaerat modi eligendi ex aut quod laborum, laudantium porro accusantium, temporibus repellat?
 

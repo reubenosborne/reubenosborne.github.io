@@ -1,8 +1,8 @@
 ---
 layout: post
 category: post
-title: Burning Man 2016
-excerpt: From dust, to dust.
+title: Onwards! They cried.
+excerpt: In which we find ourselves on a moving chair..
 img: bm/chariot.jpg
 ---
 

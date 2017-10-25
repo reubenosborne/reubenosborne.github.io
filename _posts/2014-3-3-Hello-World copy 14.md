@@ -1,8 +1,8 @@
 ---
 layout: work
 category: work
-title: Burning Man 2016
-excerpt: From dust, to dust.
+title: At the edge of the world
+excerpt: Ariana's dusty musings.
 img: bm/ariana-blink.jpg
 ---
 

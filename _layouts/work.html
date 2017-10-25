@@ -12,18 +12,16 @@ layout: default
 	
 	<h5>{{ page.excerpt }}</h5>
 
+	<hr>
+	
 	<p class="date">
 		Written on {{ page.date | date: "%B %e, %Y" }}
 	</p>
 	
-	<div class="content">
-		{{ content }}
-	</div>
-	
-	{% include disqus.html %}
+	{{ content }}
 </article>
 
-<div class="footer" style="background-image: url('../images/{{ page.img }}')">
+<div class="footer" style="background-image: url('../images/{% if page.img2 %}{{ page.img2 }}{% else %}{{ page.img }}{% endif %}')">
 	<div class="overlay flex">
 		<a href="/work" class="back button flex">Back to Portfolio</a>
 	</div>
