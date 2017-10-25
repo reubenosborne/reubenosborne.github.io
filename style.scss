@@ -62,9 +62,10 @@ h4 {
 
 h5 {
   margin: 10px;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 300;
   font-style: italic;
+  text-align: center;
 }
 
 p {
@@ -164,7 +165,7 @@ img {
   display: grid;
   grid-gap: 20px;
   grid-template-rows: 120px minmax(250px, auto) 60px;
-  grid-template-columns: 100px 1fr 100px;
+  grid-template-columns: 90px 1fr 90px;
 }
 
 .logo {
@@ -187,7 +188,7 @@ img {
     grid-column: 1 / 4;
     margin: 50px 40px 0;
     h1 {
-      font-size: 16px;
+      font-size: 18px;
     }
   }
 }
@@ -285,6 +286,7 @@ img {
     font-size: 12px;
     letter-spacing: 2px;
     font-weight: 100;
+    text-align: center;
   }
 }
 
@@ -317,33 +319,34 @@ img {
 }
 
 article.entry {
-  grid-row: 2;
+  grid-row: 2 / 4;
   grid-column: 2;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 0 80px;
+  margin: 0 70px;
   h1 {
     font-family: $playfair;
     text-transform: uppercase;
     text-align: center;
-    letter-spacing: 5px;
-    font-size: 42px;
-    max-width: 600px;
+    letter-spacing: 7px;
+    font-size: 40px;
+    max-width: 800px;
   }
   img {
     width: 100%;
     margin: 30px 0;
-    box-shadow: 0px 0px 10px 0px #999;
   }
   @media ( max-width: 800px ) {
     grid-column: 1 / 4;
-    margin: 0 40px;
+    margin: 0 30px;
+    img {
+      margin: 10px 0;
+    }
   }
 }
 
 .date {
-  margin: 10px 0 40px;
   font-size: 15px;
 }
 
@@ -361,6 +364,7 @@ article.entry {
 }
 
 hr {
+  margin: 30px;
   width: 35px;
   color: $gray;
 }
