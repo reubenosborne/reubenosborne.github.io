@@ -350,7 +350,7 @@ article.entry {
     margin: 30px 0;
   }
   p:nth-last-child(1) {
-    margin-bottom: 200px;
+    margin-bottom: 100px;
   }
   @media ( max-width: 800px ) {
     grid-column: 1 / 4;
@@ -382,15 +382,4 @@ hr {
   margin: 30px;
   width: 35px;
   color: $gray;
-}
-
-.PageNavigation {
-  display: flex;
-  justify-content: space-between;
-  font-size: 14px;
-  width: 600px;
-}
-
-.PageNavigation a {
-  margin: 1em 0;
 }
