@@ -29,13 +29,12 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $helveticaNeue, 'Arimo';
   color: $darkGray;
   letter-spacing: 2px;
   line-height: 1.5;
   padding: 0;
   margin: 0;
-  transition: .5s;
 
   @include mobile {
     line-height: 1.3;
@@ -45,6 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 50px;
   font-weight: 100;
+  font-family:  "Helvetica Neue", "Arimo", Helvetica, sans-serif;
 }
 
 h2 {
@@ -275,7 +275,6 @@ img {
   background: no-repeat center center;
   background-size: cover;
   position: relative;
-  transition: .4s;
   &:hover {
     cursor: pointer;
   }
