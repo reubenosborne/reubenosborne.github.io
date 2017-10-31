@@ -5,14 +5,14 @@ permalink: /blog/
 ---
 
 <div class="symbol flex">
-	<a href="{{site.baseurl}}/"><i class="icon-left-open"></i></a>
+	<a href="{{site.baseurl}}/"><i class="icon-left"></i></a>
 </div>
 
 <div class="posts">
 	{% for post in site.posts %}
 	{% if post.category contains 'post' %}
 	<article class="post flex" style="background-image: url('../images/{{ post.img }}')">
-		<a href="{{ site.baseurl }}{{ post.url }}"><div class="overlay flex">
+		<a href="{{ site.baseurl }}{{ post.url }}"><div class="overlay overlay-dark flex">
 			<h4>{{ post.title }}</h4>
 			<p>"<em>{{ post.excerpt }}</em>"</p>
 		</div></a>

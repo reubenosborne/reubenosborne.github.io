@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="symbol flex">
-	<a href="{{site.baseurl}}/blog"><i class="icon-left-open"></i></a>
+	<a href="{{site.baseurl}}/blog"><i class="icon-left"></i></a>
 </div>
 
 
@@ -16,12 +16,14 @@ layout: default
 	
 	<p class="date">
 		Written on {{ page.date | date: "%B %e, %Y" }} &nbsp;&nbsp;
+		<span class="read">
 			{% capture words %}
-	{{ page.content | number_of_words | minus: 250 }}
-	{% endcapture %}
-	{% unless words contains "-" %}
-	{{ words | plus: 250 | divided_by: 180 | append: " Minute read" }}
-	{% endunless %}
+			{{ page.content | number_of_words | minus: 250 }}
+			{% endcapture %}
+			{% unless words contains "-" %}
+			{{ words | plus: 250 | divided_by: 180 | append: "m read" }}
+			{% endunless %}
+		</span>
 	</p>
 
 
@@ -33,7 +35,7 @@ layout: default
 </article>
 
 <div class="footer" style="background-image: url('../images/{{ page.img }}')">
-	<div class="overlay flex">
+	<div class="overlay overlay-dark flex">
 		<a href="/blog" class="back button flex">Back to Blog</a>
 	</div>
 </div>

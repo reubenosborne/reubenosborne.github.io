@@ -117,13 +117,17 @@ strong, b {
   font-weight: bold;
 }
 
+i {
+  font-size: 30px;
+}
+
 img {
   max-width: 100%;
-}
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
+}
 }
 
 .date {
@@ -165,8 +169,16 @@ img {
 #main {
   display: grid;
   grid-gap: 20px;
-  grid-template-rows: 120px minmax(250px, auto) 60px;
+  grid-template-rows: 120px minmax(250px, auto) 200px;
   grid-template-columns: 90px 1fr 90px;
+}
+
+.bg {
+  height: 100vh;
+  background: url('images/bm/rings.jpg') center center no-repeat;
+  background-size: cover;
+  grid-row: 1 / 4;
+  grid-column: 1 / 4;
 }
 
 .logo {
@@ -205,10 +217,10 @@ img {
 }
 
 .button {
-  width: 200px;
+  margin-right: 10px;
   height: 60px;
   cursor: pointer;
-  transition: .2s;
+  // transition: .2s;
   font-size: 12px;
   font-weight: 100;
   letter-spacing: 2px;
@@ -218,7 +230,26 @@ img {
   }
 }
 
+.buttons {
+  display: flex;
+  flex-direction: row;
+}
+
 .portfolio {
+  width: 200px;
+  border: 1px solid $blue;
+  margin-top: 30px;
+  &:hover {
+    color: #fff;
+    background: $fadedBlue;
+  }
+}
+
+.mail {
+  i {
+    font-size: 20px;
+  }
+  width: 80px;
   border: 1px solid $blue;
   margin-top: 30px;
   &:hover {
@@ -245,9 +276,6 @@ img {
 .symbol {
   grid-row: 1;
   grid-column: 3;
-  i {
-    font-size: 30px;
-  }
 }
 
 /*******************/
@@ -304,12 +332,19 @@ img {
   position: absolute;
   top: 0;
   left: 0;
-  background: #111;
   height: 100%;
   width: 100%;
   opacity: .8;
   flex-direction: column;
   transition: opacity .5s;
+}
+
+.overlay-dark {
+  background: #111;
+}
+
+.overlay-light {
+  background: #eee;
 }
 
 .posts {
@@ -361,6 +396,11 @@ article.entry {
 
 .date {
   font-size: 15px;
+}
+
+.read {
+  font-size: 15px;
+  color: darkred;
 }
 
 .footer {
