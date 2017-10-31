@@ -15,11 +15,19 @@ layout: default
 	<hr>
 	
 	<p class="date">
-		Written on {{ page.date | date: "%B %e, %Y" }}
+		Written on {{ page.date | date: "%B %e, %Y" }} &nbsp;&nbsp;
+			{% capture words %}
+	{{ page.content | number_of_words | minus: 250 }}
+	{% endcapture %}
+	{% unless words contains "-" %}
+	{{ words | plus: 250 | divided_by: 180 | append: " Minute read" }}
+	{% endunless %}
 	</p>
-	
+
+
+
 	{{ content }}
-	
+
 	{% include disqus.html %}
 	
 </article>
