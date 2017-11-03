@@ -160,6 +160,10 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 
+div[id*='product'] {
+  margin: 50px;
+}
+
 .flex {
   display: flex;
   align-items: center;
@@ -169,17 +173,17 @@ img {
 #main {
   display: grid;
   grid-gap: 20px;
-  grid-template-rows: 120px minmax(250px, auto) 200px;
+  grid-template-rows: 120px minmax(250px, auto) 100px;
   grid-template-columns: 90px 1fr 90px;
 }
 
-.bg {
-  height: 100vh;
-  background: url('images/bm/rings.jpg') center center no-repeat;
-  background-size: cover;
-  grid-row: 1 / 4;
-  grid-column: 1 / 4;
-}
+// .bg {
+//   height: 100vh;
+//   background: url('images/bm/rings.jpg') center center no-repeat;
+//   background-size: cover;
+//   grid-row: 1 / 4;
+//   grid-column: 1 / 4;
+// }
 
 .logo {
   grid-row: 1;
@@ -220,7 +224,6 @@ img {
   margin-right: 10px;
   height: 60px;
   cursor: pointer;
-  // transition: .2s;
   font-size: 12px;
   font-weight: 100;
   letter-spacing: 2px;
@@ -228,34 +231,43 @@ img {
     width: 160px;
     height: 48px;
   }
+  &:hover {
+    color: #fff;
+    background: $fadedBlue;
+  }
 }
 
 .buttons {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .portfolio {
-  width: 150px;
+  width: 180px;
   border: 1px solid $blue;
+  background: $fadedBlue;
+  color: #fff;
   margin-top: 30px;
   &:hover {
-    color: #fff;
-    background: $fadedBlue;
+    color: #000;
+    background: #fff;
   }
+}
+
+.blog {
+  width: 110px;
+  border: 1px solid $blue;
+  margin-top: 30px;
 }
 
 .mail {
   i {
-    font-size: 20px;
+    font-size: 18px;
   }
-  width: 80px;
+  width: 60px;
   border: 1px solid $blue;
   margin-top: 30px;
-  &:hover {
-    color: #fff;
-    background: $fadedBlue;
-  }
 }
 
 .back {
@@ -271,11 +283,6 @@ img {
     font-weight: 500;
     background: rgba(255,255,255,.8);
   }
-}
-
-.symbol {
-  grid-row: 1;
-  grid-column: 3;
 }
 
 /*******************/
@@ -307,8 +314,8 @@ img {
     cursor: pointer;
   }
   .overlay:hover {
-    transition: opacity 1.5s;
-    opacity: .2;
+    transition: opacity .5s;
+    opacity: .8;
   }
   .overlay h4 {
     color: #fff;
@@ -334,7 +341,7 @@ img {
   left: 0;
   height: 100%;
   width: 100%;
-  opacity: .8;
+  opacity: .9;
   flex-direction: column;
   transition: opacity .5s;
 }
