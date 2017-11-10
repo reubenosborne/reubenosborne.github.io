@@ -179,13 +179,13 @@ div[id*='product'] {
   grid-template-columns: 90px 1fr 90px;
 }
 
-// .bg {
-//   height: 100vh;
-//   background: url('images/bm/rings.jpg') center center no-repeat;
-//   background-size: cover;
-//   grid-row: 1 / 4;
-//   grid-column: 1 / 4;
-// }
+.bg {
+  height: 100vh;
+  background: url('images/bg.jpg') center center no-repeat;
+  background-size: cover;
+  grid-row: 1 / 4;
+  grid-column: 1 / 4;
+}
 
 .logo {
   grid-row: 1;
