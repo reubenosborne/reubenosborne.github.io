@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue, 'Arimo';
-  color: $darkGray;
+  color: #ccc;
   letter-spacing: 2px;
   line-height: 1.5;
   padding: 0;
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 50px;
-  font-weight: 100;
+  font-weight: 200;
   font-family:  "Helvetica Neue", "Arimo", Helvetica, sans-serif;
 }
 
@@ -181,7 +181,7 @@ div[id*='product'] {
 
 .bg {
   height: 100vh;
-  background: url('images/bm/lines.jpg') center center no-repeat;
+  background: url('images/cars.jpg') center center no-repeat;
   background-size: cover;
   grid-row: 1 / 4;
   grid-column: 1 / 4;
@@ -191,6 +191,7 @@ div[id*='product'] {
   grid-row: 1;
   grid-column: 1;
   a {
+    color: #eee;
     font-size: 40px;
     text-decoration: none;
     -webkit-transform: rotate(90deg);
@@ -229,14 +230,19 @@ div[id*='product'] {
   font-size: 12px;
   font-weight: 100;
   letter-spacing: 2px;
+  background: rgba(255,255,255,0.8);
+  border: 1px solid #111;
+  color: #222;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 3px;
   @media ( max-width: 600px ) {
     width: 160px;
     height: 48px;
   }
   &:hover {
-    color: #fff;
     transition: .3s;
-    background: $fadedBlue;
+    background: #fff;
   }
 }
 
@@ -248,19 +254,15 @@ div[id*='product'] {
 
 .portfolio {
   width: 180px;
-  border: 1px solid $blue;
-  background: $fadedBlue;
-  color: #fff;
   margin-top: 30px;
   &:hover {
     color: #000;
-    background: none;
+    background: #eee;
   }
 }
 
 .blog {
   width: 110px;
-  border: 1px solid $blue;
   margin-top: 30px;
 }
 
@@ -269,7 +271,6 @@ div[id*='product'] {
     font-size: 18px;
   }
   width: 60px;
-  border: 1px solid $blue;
   margin-top: 30px;
 }
 
@@ -318,7 +319,7 @@ div[id*='product'] {
   }
   .overlay:hover {
     transition: opacity .5s;
-    opacity: .8;
+    opacity: .9;
   }
   .overlay h4 {
     color: #ddd;
@@ -346,7 +347,7 @@ div[id*='product'] {
   left: 0;
   height: 100%;
   width: 100%;
-  opacity: .9;
+  opacity: .7;
   flex-direction: column;
   transition: opacity .5s;
 }
@@ -379,11 +380,10 @@ div[id*='product'] {
 
 article.entry {
   grid-row: 2 / 4;
-  grid-column: 2;
+  grid-column: 1 / 4;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 0 70px;
   h1 {
     font-family: $playfair;
     text-transform: uppercase;
@@ -398,8 +398,12 @@ article.entry {
   }
   p {
     width: 600px;
+    margin: 15px 70px;
     font-size: 19px;
     line-height: 1.8;
+  }
+  p.imgWide {
+    width: 100%;
   }
   p.date {
     font-size: 15px;
