@@ -13,15 +13,15 @@
       "src": "fontawesome"
     },
     {
-      "uid": "72b1277834cba5b7944b0a6cac7ddb0d",
-      "css": "rss",
-      "code": 61598,
-      "src": "fontawesome"
+      "uid": "53c977df16b09e3f7700a27ec90c43dc",
+      "css": "stopwatch",
+      "code": 59393,
+      "src": "mfglabs"
     },
     {
-      "uid": "f6d72aa5ef8e8f0e553012af9a29a87e",
-      "css": "left",
-      "code": 61815,
+      "uid": "598a5f2bcf3521d1615de8e1881ccd17",
+      "css": "clock",
+      "code": 59394,
       "src": "fontawesome"
     }
   ]

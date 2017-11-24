@@ -16,6 +16,7 @@ layout: default
 			{{ page.content | number_of_words | minus: 250 }}
 			{% endcapture %}
 			{% unless words contains "-" %}
+			<i class="icon-stopwatch"></i>
 			{{ words | plus: 250 | divided_by: 180 | append: "m read" }}
 			{% endunless %}
 		</span>
