@@ -9,9 +9,9 @@ img2: train.jpeg
 
 I probably shouldn't have started my last evening in Bali washing a few spoons of kratom down with some large bintangs but much can be excused when it's your last night in 'paradise'. Of course I'm not so proud of myself upon waking and it takes me a few snoozes of the alarm before I pull myself out of bed to pack.
 
-My taxi driver decides to cancel on me last minute because when the universe gets bored its favorite game is to see how many people it can make miss their flight. I remedied this with a shower and a bowl of fruit because it turns out I also like this game. I even decided to honor the #minimalisttravellifestyle and leave all my Malaysian ringgit behind.
+My taxi driver decides to cancel on me last minute because when the universe gets bored its favorite game is to see how many people it can make miss their flight. I remedy this with a shower and a bowl of fruit because it turns out I also like this game. I even decide to honor the #minimalisttravellifestyle and leave all my Malaysian ringgit behind.
 
-A blessing had befallen me the day prior when I found an SD card full of photos from my recent trip to America. I had assumed all of the photos were on my missing card so uncovering these precious memories made me dizzy with appreciation and I spent the taxi ride to the airport editing until I was forced to lay my head down and sleep.
+A blessing had befallen me the day prior when I found an SD card full of photos from my recent trip to America. I had assumed all of the photos were on my missing card so uncovering these precious memories makes me dizzy with appreciation and I spend the taxi ride to the airport editing until I'm forced to lay my head down and sleep.
 
 The flight is unremarkable. I doze in and out of sleep, dreaming of roti chenai and teh tarik as my German co-passenger sneezes next to, and on me.
 
