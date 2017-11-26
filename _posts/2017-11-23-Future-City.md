@@ -13,7 +13,7 @@ My taxi driver decides to cancel on me last minute because when the universe get
 
 A blessing had befallen me the day prior when I found an SD card full of photos from my recent trip to America. I had assumed all of the photos were on my missing card so uncovering these precious memories makes me dizzy with appreciation and I spend the taxi ride to the airport editing until I'm forced to lay my head down and sleep.
 
-The flight is unremarkable. I doze in and out of sleep, dreaming of roti chenai and teh tarik as my German co-passenger sneezes next to, and on me.
+The flight is unremarkable. I doze in and out of consciousness, dreaming of roti chenai and teh tarik as my German co-passenger sneezes next to, and on me.
 
 <figure>
   <img src="{{site.url}}/images/train.jpeg" class="imgWide" alt="Future Stairs"/>
@@ -32,7 +32,7 @@ Located in a hundred year old Chinese heritage building *Mingle Hostel* is my ho
 
 <figure>
   <img src="{{site.url}}/images/mingle_warmer.jpeg" class="imgWide" alt="Mingle Hostel"/>
-  <figcaption>Mingle, the best hostel in Kuala Lumpur</a>)</figcaption>
+  <figcaption>Mingle, the best hostel in Kuala Lumpur</figcaption>
 </figure>
 
 I check in and make my way to the rooftop bar. I have two focuses while I am here; meet people, eat food. I figure here is the best place to begin this quest. I find an animated bartender, Loson, in conversation with a friendly Russian girl, Katrin, and am asked if I want to join. Although travel has done a good job of eroding my shyness sometimes it will find it's way in and so I'm exceptionally grateful for the people who happily wave you into the chair next to them.
