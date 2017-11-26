@@ -201,7 +201,6 @@ div[id*='product'] {
 }
 
 .navigation {
-  z-index: 100;
   grid-row: 1;
   grid-column: 3;
   display: flex;
@@ -210,6 +209,7 @@ div[id*='product'] {
   justify-content: center;
   padding-right: 20px;
   a {
+    padding: 1px 3px;
     color: #111;
     text-decoration: none;
     cursor: pointer;
@@ -217,6 +217,12 @@ div[id*='product'] {
     font-size: 12px;
     letter-spacing: 2px;
     font-weight: 500;
+    transition: .05s;
+    &:hover {
+      cursor: pointer;
+      color: #eee;
+      background: #222;
+    }
   }
 }
 

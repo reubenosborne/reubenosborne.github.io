@@ -34,6 +34,8 @@ Located in a hundred year old Chinese heritage building *Mingle Hostel* is my ho
 
 I check in and make my way to the rooftop bar. I have two focuses while I am here; meet people, eat food. I figure here is the best place to begin this quest. I find an animated bartender, Loson, in conversation with a friendly Russian girl, Katrin, and am asked if I want to join. Although travel has done a good job of eroding my shyness sometimes it will find it's way in and so I'm exceptionally grateful for the people who happily wave you into the chair next to them.
 
+![Mingle Hostel]({{site.url}}/images/mingle.jpeg)
+
 Katrin has been living in Vietnam for two years working as a bartender in Nha Trang so I take the opportunity to ask about life in another country. I'm particularly interested in how one builds community and finds friends when living in Asia and she shares that although the former is easily found the latter has it's difficulties. Vietnam is not Bali but I relate; I've found it difficult finding friends within the somewhat limited pool of (often alcoholic) expats and people passing through.
 
 Katrin and I find some dinner at a middle eastern restaurant that caters to tourists who haven't quite figured out the currency yet. Regardless, I chow into dolmades and tabouleh and felafel having not eaten anything remotely similar in months. Our conversation and thirst eventually leads us to a bar called PS150 on Pentaling st. 
