@@ -1,9 +1,9 @@
 ---
 layout: work
 category: work
-title: Mint Consulting
-excerpt: Website for NZ consulting company
-img: mint.png
+title: Molecular Jewelry
+excerpt: Developing a web presence for a new trending jewelry company
+img: molecular_landing.png
 img2: mint2.png
 ---
 

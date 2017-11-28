@@ -1,8 +1,8 @@
 ---
 layout: post
 category: post
-title: The city of crunchy leaves
-excerpt: My month in Portland
+title: The Growing Home
+excerpt: A community of radical vegans
 img: america/alithrow.jpeg
 img2: america/bluebridge.jpeg
 ---
@@ -46,23 +46,17 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, mollitia, adipis
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore error amet incidunt recusandae adipisci, debitis! At modi impedit labore commodi maxime ipsam pariatur iste iusto molestiae, repellendus ipsum ipsa asperiores!
 
-<figure>
-  <img src="{{site.url}}/images/america/giftingbox.jpeg" class="imgWide" alt="Future Stairs"/>
-  <figcaption>The train into the city gives glimpses of a different life.</figcaption>
-</figure>
+![Gifting Box]({{site.url}}/images/america/giftingbox.jpeg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt aperiam quidem distinctio sint quo fugiat qui vel repellat corrupti fugit iusto odio, eum nobis recusandae animi similique ut, quam atque!
 
-<figure>
-  <img src="{{site.url}}/images/america/platoturn.jpeg" class="imgWide" alt="Future Stairs"/>
-  <figcaption>The train into the city gives glimpses of a different life.</figcaption>
-</figure>
+![Plato, The Best Dog]({{site.url}}/images/america/platoturn.jpeg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae consequuntur ipsa debitis earum beatae rem, nihil, rerum saepe quia vel minus omnis quaerat molestias quo eveniet libero ducimus tenetur. Distinctio.
 
 <figure>
   <img src="{{site.url}}/images/america/shopping.jpeg" class="imgWide" alt="Future Stairs"/>
-  <figcaption>The train into the city gives glimpses of a different life.</figcaption>
+  <figcaption>We collect ingredients for a raw vegan cheesecake, with stewed fig topping.</figcaption>
 </figure>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi labore odio alias, sequi quaerat quis accusamus similique distinctio quibusdam aspernatur nam repellendus expedita saepe fuga nisi ratione autem cumque doloremque?

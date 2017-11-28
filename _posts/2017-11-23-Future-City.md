@@ -7,7 +7,7 @@ img: futurestairs.jpeg
 img2: train.jpeg
 ---
 
-I probably shouldn't have started my last evening in Bali washing a few spoons of kratom down with some large bintangs but much can be excused when it's your last night in 'paradise'. Of course I'm not so proud of myself upon waking and it takes me a few snoozes of the alarm before I pull myself out of bed to pack.
+I probably shouldn't have started my last evening in Bali washing spoons of kratom down with large bintangs but much can be excused when it's your last night in 'paradise'. Of course I'm not so proud of myself upon waking and it takes me a few snoozes of the alarm before I pull myself out of bed to pack.
 
 My taxi driver decides to cancel on me last minute because when the universe gets bored its favorite game is to see how many people it can make miss their flight. I remedy this with a shower and a bowl of fruit because it turns out I also like this game. I even decide to honor the #minimalisttravellifestyle and leave all my Malaysian ringgit behind.
 
@@ -57,12 +57,6 @@ I make conversation with a Malaysian girl sitting next to me who tells me she *a
 We enlist two of the bartenders to take us to our next stop, ShuangXi, a place shrouded in even more secrecy than the first. Having gained notoriety on Instagram it is a large warehouse apartment that is opened as a bar in the evening. One must ring ahead to reserve a place and then wait in a stairwell for the owner to collect you.
 
 I struggle to think I'd be able to conjure a place as well put together as this one; it speaks to me on levels I forgot I desired. Beautiful local women swill wine in large glasses, talking in circles whilst throwing quick glances at us newcomers. Tattooed men laugh with fire in their eyes and cigarettes in their hands. <a href="https://www.youtube.com/watch?v=4-M3-Y7_I54">Biig Piig</a> is projected on the wall across from me, serenading the space with her beautiful song. I am transfixed. The place is full of asian antiques, movie memorabilia, cabinets of curiosities. The blanks are filled with plants. The place has an authenticity about it and for the first time in a long time I don't feel like I'm being "sold cool". A corner is taken up by a large cage that houses three suspicious cats, I later find out there names are all variants of "Uncle" when "Third Uncle" swats at me through the cages bars. The bathroom is awash with a sickly blue glow.
-
-<br>
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/4-M3-Y7_I54" frameborder="0" gesture="media" allowfullscreen></iframe>
-
-<br>
 
 We order a beer from the owner and I comment on his heavy black tattoo work. I'm comforted by heavy modifications in a way that few understand. Inquiring about who's responsible for the impressive work that runs down his neck he responds: "some frenchie". "The same frenchie that did my feet?" I ask as I show him my work by Guy Le Tatooer. We immediately find ourselves in a four hour conversation about the place he runs, Malaysian tattoo culture and split tongues. He has a cabinet that houses a collection of ear weights like I've never seen before but can very much appreciate and we share our passions for gold teeth, proper piercing techniques and modification steeped in tradition.
 
