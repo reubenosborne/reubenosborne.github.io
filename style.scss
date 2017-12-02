@@ -230,7 +230,7 @@ div[id*='product'] {
     &:hover {
       cursor: pointer;
       color: #eee;
-      background: #222;
+      background: rgba(71,157,221,1);
     }
   }
 }
@@ -266,10 +266,11 @@ div[id*='product'] {
   height: 60px;
   cursor: pointer;
   font-size: 12px;
-  font-weight: 500;
+  font-weight: 200;
   letter-spacing: 2px;
   background: rgba(71,157,221,.9);
   border: 1px solid rgba(71,157,221,1);
+  box-shadow: 3px 3px 4px 1px rgba(0,0,0,0.1);
   color: #eee;
   letter-spacing: 4px;
   @media ( max-width: 600px ) {
@@ -279,10 +280,10 @@ div[id*='product'] {
   }
   &:hover {
     transition: .3s;
-    background: rgba(71,157,221,.2);
-    border: 1px solid rgba(71,157,221,.7);
-    color: #555;
-    font-weight: 500;
+    background: rgba(71,157,221,1);
+    border: 1px solid rgba(71,157,221,1);
+    color: #fff;
+    font-weight: 200;
   }
 }
 
